@@ -25,6 +25,6 @@ ubuntu              latest              0458a4468cbc        2 days ago          
 To run a container using the image above
 
 ```
-➜  docker-vim git:(master) docker run -i -t icaoberg/vim
+➜  docker run -i -t icaoberg/vim
 icaoberg@7312b0fb2f54:~$
 ```
