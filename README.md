@@ -1,5 +1,6 @@
 # docker-vim
 
+[![Build Status](https://travis-ci.org/icaoberg/docker-vim.svg?branch=master)](https://travis-ci.org/icaoberg/docker-vim)
 [![GitHub issues](https://img.shields.io/github/issues/icaoberg/docker-vim.svg)](https://github.com/icaoberg/docker-vim/issues)
 [![GitHub forks](https://img.shields.io/github/forks/icaoberg/docker-vim.svg)](https://github.com/icaoberg/docker-vim/network)
 [![GitHub stars](https://img.shields.io/github/stars/icaoberg/docker-vim.svg)](https://github.com/icaoberg/docker-vim/stargazers)
