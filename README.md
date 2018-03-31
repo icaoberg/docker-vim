@@ -14,6 +14,12 @@ To build an image using the `Dockerfile` in this repository, run the command
 ➜ docker build -t "icaoberg/vim" .
 ```
 
+To pull the image from Dockerhub, run the command
+
+```
+docker pull icaoberg/docker-vim
+```
+
 To run a container using the image above
 
 ```
