@@ -9,7 +9,7 @@ LABEL version="0.1"
 USER root
 RUN apt-get update --fix-missing
 RUN apt-get install -y --no-install-recommends apt-utils
-RUN apt-get install -y build-essential git vim 
+RUN apt-get install -y build-essential git vim tmux 
 
 # configure environment
 ENV DEBIAN_FRONTEND noninteractive

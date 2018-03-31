@@ -20,3 +20,11 @@ To run a container using the image above
 ➜  docker run -it icaoberg/vim
 icaoberg@7312b0fb2f54:~$
 ```
+
+## About the container
+
+This container comes with 
+
+* [vim](https://www.vim.org/)
+* [tmux](https://github.com/tmux/tmux)
+* [git](https://git-scm.com/)
