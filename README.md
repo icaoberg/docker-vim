@@ -6,7 +6,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/icaoberg/docker-vim.svg)](https://github.com/icaoberg/docker-vim/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/licenses/quick-guide-gplv3.en.html)
 
-![vim as IDE](./images/screenshot.png)
+![vim as IDE](https://raw.githubusercontent.com/icaoberg/docker-vim/master/images/screenshot.png)
 
 To build an image using the `Dockerfile` in this repository, run the command
 
